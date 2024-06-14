@@ -47,7 +47,7 @@ Equals "High rating" if performance rating equals 3, otherwise "Low rating".
 
 V. Visualized the Data using KPI cards, Bar charts ,Pie charts and Tables 
 
-Download the Pbix file :
-View the pdf of the dashboard: https://github.com/Pearl2307/HR-Analytics-Power-Bi-/blob/main/HR%20analytics.pdf
+Download the Pbix file : 
+View the pdf of the dashboard: [Hr Analytics Pdf] (https://github.com/Pearl2307/HR-Analytics-Power-Bi-/blob/main/HR%20analytics.pdf)
 
 
